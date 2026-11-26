@@ -109,11 +109,11 @@
       "name": "Lill q",
       "address": "https://anisette.lillq.me",
       "kind": 2
+    },
+    {
+      "name": "alex",
+      "address": "https://anisette-v3-server-3xpl.onrender.com",
+      "kind": 0
     }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
-},
-{
-    "name": "alex",   //doesn't really matter unless you're sharing this server list with someone else
-    "address": "https://anisette-v3-server-3xpl.onrender.com/"
+  ]
 }
